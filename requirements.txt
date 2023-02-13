@@ -1,4 +1,4 @@
 streamlit
-yolov5 --no_cache_dir
+yolov5
 opencv-contrib-python
-tensorflow --no_cache_dir
+tensorflow
