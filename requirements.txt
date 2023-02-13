@@ -1,0 +1,4 @@
+pip install streamlit
+pip install yolov5 --no-cache-dir
+pip install opencv-contrib-python
+pip install tensorflow --no-cache-dir
